@@ -962,6 +962,7 @@ const fileIcons: Record<string, {
   'html': {
     languageIds: ['html'],
     fileExtensions: [
+      'html',
       'htm',
       'xhtml',
       'html_vm',
